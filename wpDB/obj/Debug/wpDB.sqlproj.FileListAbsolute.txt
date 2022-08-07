@@ -1,0 +1,10 @@
+D:\Workplanner\DB\wpDB\wpDB\bin\Debug\wpDB.dacpac
+D:\Workplanner\DB\wpDB\wpDB\bin\Debug\wpDB.dll
+D:\Workplanner\DB\wpDB\wpDB\bin\Debug\wpDB.pdb
+D:\Workplanner\DB\wpDB\wpDB\obj\Debug\wpDB.sqlproj.AssemblyReference.cache
+D:\Workplanner\DB\wpDB\wpDB\obj\Debug\Model.xml
+D:\Workplanner\DB\wpDB\wpDB\obj\Debug\refactor.xml
+D:\Workplanner\DB\wpDB\wpDB\obj\Debug\postdeploy.sql
+D:\Workplanner\DB\wpDB\wpDB\obj\Debug\predeploy.sql
+D:\Workplanner\DB\wpDB\wpDB\obj\Debug\wpDB.dll
+D:\Workplanner\DB\wpDB\wpDB\obj\Debug\wpDB.pdb
